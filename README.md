@@ -1,10 +1,16 @@
 # DECISION-TREE-IMPLEMENTATION
 COMPANY: CODTECH IT SOLUTIONS 
+
 NAME: Aditya Nagare
+
 INTERN ID: CT12WH88 
+
 DOMAIN: Machine Learning
+
 DURATION: 12 weeks 
+
 MENTOR: NEELA SANTOSH
+
 ## DESCRIPTION OF TASK
   #Project Description: 
 Decision Tree Classifier Using Scikit-learn
@@ -62,4 +68,13 @@ Agriculture: Classifying types of crops based on soil and climate data.
 Decision Trees are especially useful when explainability is important. Because they resemble flowcharts, it's easy to understand how a decision was made, which is essential in fields like healthcare or legal decision-making.
 
 ##OUTPUT
-1.![Image](https://github.com/user-attachments/assets/189f8fde-2b6b-44d9-ac2f-d9021ddf2a17)
+
+![Image](https://github.com/user-attachments/assets/b0aa0aa4-fab9-4a58-80ee-39412a479de2)
+
+![Image](https://github.com/user-attachments/assets/e4d2db1f-f3b9-4ff6-be5f-758a30be14c5)
+
+![Image](https://github.com/user-attachments/assets/41c9b7ff-f4d1-419d-9531-053ea68658c6)
+
+![Image](https://github.com/user-attachments/assets/7e8cb3b9-a6e9-4777-99ba-04810693ae81)
+
+![Image](https://github.com/user-attachments/assets/189f8fde-2b6b-44d9-ac2f-d9021ddf2a17)
