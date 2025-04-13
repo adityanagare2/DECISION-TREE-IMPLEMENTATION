@@ -62,3 +62,4 @@ Agriculture: Classifying types of crops based on soil and climate data.
 Decision Trees are especially useful when explainability is important. Because they resemble flowcharts, it's easy to understand how a decision was made, which is essential in fields like healthcare or legal decision-making.
 
 ##OUTPUT
+1.![Image](https://github.com/user-attachments/assets/189f8fde-2b6b-44d9-ac2f-d9021ddf2a17)
